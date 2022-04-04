@@ -1,0 +1,45 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Añade aquí tu código CSS.
+
+Por ejemplo:
+.ejemplo {
+    color: red;
+}
+
+Para mejorar tu conocimiento sobre CSS knowledge echa un vistazo a http://www.w3schools.com/css/css_syntax.asp
+
+Fin del comentario */ 
+
+.wd-title-style-simple.wd-title-color-default .liner-continer:after{
+  background-color: #EA5B22 !important;
+  top: 85% !important;
+  width: 50px !important;
+  height: 4px !important;
+}
+.button-services .btn-style-default{
+  background-color: #ea5b22 !important;
+}
+#wpcf7-f1938-p7100-o1 label{
+  color: #ffffff !important
+}
+#wpcf7-f1938-p7100-o1 .wpcf7-submit{
+  width:100% !important;
+  background-color: #F05A1F !important;
+  color: #ffffff !important
+}
+#wpcf7-f1938-p7100-o1 .wpcf7-form-control{
+  color:#ffffff !important
+}
+.wpb_wrapper .menu-items-footer{
+  float: right !important
+}
+
+/*#wd-622e18564b7e7 input[type='email'], input[type='date'], input[type='search'], input[type='number'], input[type='text'], input[type='tel'], input[type='url'], input[type='password'], textarea, select{
+  border: 1px solid #ffffff !important
+}*/
+/*#wd-622e18564b7e7 .your-email  .wpcf7-email{
+  border: 1px solid #ffffff !important
+}*/
+</style>
+<!-- end Simple Custom CSS and JS -->
