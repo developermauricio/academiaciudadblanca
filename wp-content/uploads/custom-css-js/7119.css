@@ -34,6 +34,9 @@ Fin del comentario */
 .wpb_wrapper .menu-items-footer{
   float: right !important
 }
+.cat-item.cat-item-15 {
+  display:none !important
+}
 
 /*#wd-622e18564b7e7 input[type='email'], input[type='date'], input[type='search'], input[type='number'], input[type='text'], input[type='tel'], input[type='url'], input[type='password'], textarea, select{
   border: 1px solid #ffffff !important
