@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'acciudadblanca' );
+define( 'DB_NAME', 'academiaciudadblanca' );
 
 /** Database username */
-define( 'DB_USER', 'forge' );
+define( 'DB_USER', 'forgewordpress' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'fR7ZbKrA0ULfnIR8kslk' );
+define( 'DB_PASSWORD', 'tjtfabe0b4ljfzjtygnz' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
